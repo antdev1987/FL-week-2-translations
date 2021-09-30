@@ -646,217 +646,217 @@ translate spanish replay_d09s03_70d0901c:
 translate spanish replay_d09s03_5ea45204:
 
     # lc "Okay... hit me with your best shot."
-    lc "Okay... hit me with your best shot."
+    lc "Bien... dame tu mejor golpe."
 
 # game/code/d09/d09s03.rpy:325
 translate spanish replay_d09s03_315e5def:
 
     # mc "So, when I was a kid, I had this [d09s03_pet!t] and we were inseparable."
-    mc "So, when I was a kid, I had this [d09s03_pet!t] and we were inseparable."
+    mc "Así que, cuando era un niño, tenía este [d09s03_pet!t] y éramos inseparables."
 
 # game/code/d09/d09s03.rpy:326
 translate spanish replay_d09s03_03c62655:
 
     # mc "We would run and play and just have a great time."
-    mc "We would run and play and just have a great time."
+    mc "Corríamos y jugábamos y nos la pasábamos muy bien."
 
 # game/code/d09/d09s03.rpy:327
 translate spanish replay_d09s03_161f6ecc:
 
     # mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
-    mc "Every night, my [d09s03_pet!t] and I would climb into bed together and [d09s03_verb!t]!"
+    mc "Cada noche, mi [d09s03_pet!t] y yo nos metíamos en la cama juntos y [d09s03_verb!t]!"
 
 # game/code/d09/d09s03.rpy:331
 translate spanish replay_d09s03_19f574ef:
 
     # lc "...{w}...{w}... What!?"
-    lc "...{w}...{w}... What!?"
+    lc "...{w}...{w}... ¿¡Qué!?"
 
 # game/code/d09/d09s03.rpy:334
 translate spanish replay_d09s03_2181fbc7:
 
     # lc "Aww, that's so sweet."
-    lc "Aww, that's so sweet."
+    lc "Aww, eso es tan dulce."
 
 # game/code/d09/d09s03.rpy:337
 translate spanish replay_d09s03_c39bc40d:
 
     # lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
-    lc "...{w} You and your [d09s03_pet!t] would [d09s03_verb!t] on your bed every night?"
+    lc "...{w} ¿Usted y su [d09s03_pet!t] estabann [d09s03_verb!t] en la cama todas las noches?"
 
 # game/code/d09/d09s03.rpy:339
 translate spanish replay_d09s03_af566bc7:
 
     # mc "Hold on. I have barely gotten started."
-    mc "Hold on. I have barely gotten started."
+    mc "Espera. Apenas he empezado."
 
 # game/code/d09/d09s03.rpy:341
 translate spanish replay_d09s03_849d4e0d:
 
     # lc "I can't even imagine where this story is going."
-    lc "I can't even imagine where this story is going."
+    lc "No puedo ni imaginar a dónde va esta historia."
 
 # game/code/d09/d09s03.rpy:344
 translate spanish replay_d09s03_3bd52983:
 
     # mc "The house I grew up in was in the suburbs, but only like a block away was the edge of a forest."
-    mc "The house I grew up in was in the suburbs, but only like a block away was the edge of a forest."
+    mc "La casa en la que crecí estaba en los suburbios, pero sólo a una manzana de distancia estaba el borde de un bosque."
 
 # game/code/d09/d09s03.rpy:345
 translate spanish replay_d09s03_abfb037f:
 
     # mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet!t] with me."
-    mc "I wasn't supposed to go into the forest alone, but I would cheat by bringing my [d09s03_pet!t] with me."
+    mc "Se suponía que no debía ir al bosque solo, pero haría trampa llevando mi [d09s03_pet!t] conmigo."
 
 # game/code/d09/d09s03.rpy:346
 translate spanish replay_d09s03_24258dd8:
 
     # mc "One day while we were walking in the woods, suddenly she smelled something and all I could do was keep up."
-    mc "One day while we were walking in the woods, suddenly she smelled something and all I could do was keep up."
+    mc "Un día, mientras paseábamos por el bosque, de repente ella olió algo y lo único que pude hacer fue seguirle el ritmo."
 
 # game/code/d09/d09s03.rpy:347
 translate spanish replay_d09s03_c7a83ce4:
 
     # mc "Next thing I knew my [d09s03_pet!t] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
-    mc "Next thing I knew my [d09s03_pet!t] was frantically digging a hole in the ground. It must have been at least a couple feet deep."
+    mc "Lo siguiente que supe fue que mi [d09s03_pet!t] estaba cavando frenéticamente un agujero en el suelo. Debía tener al menos un par de metros de profundidad."
 
 # game/code/d09/d09s03.rpy:348
 translate spanish replay_d09s03_54c1e44f:
 
     # mc "Then she found what she was looking for and looked up at me with this proud grin."
-    mc "Then she found what she was looking for and looked up at me with this proud grin."
+    mc "Entonces encontró lo que buscaba y me miró con una sonrisa de orgullo."
 
 # game/code/d09/d09s03.rpy:351
 translate spanish replay_d09s03_970ea76c:
 
     # lc "What was it?"
-    lc "What was it?"
+    lc "¿Qué era?"
 
 # game/code/d09/d09s03.rpy:352
 translate spanish replay_d09s03_1069da09:
 
     # mc "At the bottom of the hole was this box. Someone must have buried it."
-    mc "At the bottom of the hole was this box. Someone must have buried it."
+    mc "En el fondo del agujero estaba esta caja. Alguien debe haberla enterrado."
 
 # game/code/d09/d09s03.rpy:353
 translate spanish replay_d09s03_89287b87:
 
     # lc "Buried treasure?"
-    lc "Buried treasure?"
+    lc "¿Un tesoro enterrado?"
 
 # game/code/d09/d09s03.rpy:354
 translate spanish replay_d09s03_5256147b:
 
     # mc "Sort of. It was just an old cardboard box, filled with [d09s03_object!t]."
-    mc "Sort of. It was just an old cardboard box, filled with [d09s03_object!t]."
+    mc "Más o menos. Era sólo una vieja caja de cartón, llena de [d09s03_object!t]."
 
 # game/code/d09/d09s03.rpy:355
 translate spanish replay_d09s03_7591f9b5:
 
     # mc "I'd never seen anything like that before. I was just a kid, but I knew what I was looking at when I saw it."
-    mc "I'd never seen anything like that before. I was just a kid, but I knew what I was looking at when I saw it."
+    mc "Nunca había visto algo así. Era sólo un niño, pero sabía lo que estaba viendo cuando lo vi."
 
 # game/code/d09/d09s03.rpy:356
 translate spanish replay_d09s03_0a63f09c:
 
     # mc "That box weighed maybe 20 lbs. It took me all afternoon to dig it out of that hole and drag it someplace safe."
-    mc "That box weighed maybe 20 lbs. It took me all afternoon to dig it out of that hole and drag it someplace safe."
+    mc "Esa caja pesaba quizás 20 libras. Me llevó toda la tarde sacarla de ese agujero y arrastrarla a un lugar seguro."
 
 # game/code/d09/d09s03.rpy:359
 translate spanish replay_d09s03_738a3d14:
 
     # lc "Why would you do that?"
-    lc "Why would you do that?"
+    lc "¿Por qué harías eso?"
 
 # game/code/d09/d09s03.rpy:360
 translate spanish replay_d09s03_30ccb6cb:
 
     # mc "It was a box full of [d09s03_object!t] and I was just a little kid.{w} This was my first experience with that kinda stuff."
-    mc "It was a box full of [d09s03_object!t] and I was just a little kid.{w} This was my first experience with that kinda stuff."
+    mc "Era una caja llena de [d09s03_object!t] y yo era sólo un niño pequeño.{w} Esta fue mi primera experiencia con ese tipo de cosas."
 
 # game/code/d09/d09s03.rpy:361
 translate spanish replay_d09s03_1dd280be:
 
     # lc "Okay..."
-    lc "Okay..."
+    lc "Bien..."
 
 # game/code/d09/d09s03.rpy:362
 translate spanish replay_d09s03_7d1dc655:
 
     # mc "So, anyway, I didn't want to get caught with it, so I called my friend to the forest."
-    mc "So, anyway, I didn't want to get caught with it, so I called my friend to the forest."
+    mc "De todos modos, no quería que me pillaran con él, así que llamé a mi amigo al bosque."
 
 # game/code/d09/d09s03.rpy:363
 translate spanish replay_d09s03_8047dbeb:
 
     # mc "When I told him about it he totally flipped."
-    mc "When I told him about it he totally flipped."
+    mc "Cuando se lo conté, se volvió loco."
 
 # game/code/d09/d09s03.rpy:366
 translate spanish replay_d09s03_dcf025fb:
 
     # mc "But then we built a treehouse."
-    mc "But then we built a treehouse."
+    mc "Pero luego construimos una casa en el árbol."
 
 # game/code/d09/d09s03.rpy:367
 translate spanish replay_d09s03_ac6219f1:
 
     # lc "As one does, naturally."
-    lc "As one does, naturally."
+    lc "Como se hace, naturalmente."
 
 # game/code/d09/d09s03.rpy:368
 translate spanish replay_d09s03_5f75ce82:
 
     # mc "It wasn't really a treehouse... it was just a bunch of twigs and tree limbs we found laying around, that we wove together into some sort of structure."
-    mc "It wasn't really a treehouse... it was just a bunch of twigs and tree limbs we found laying around, that we wove together into some sort of structure."
+    mc "No era realmente una casa en el árbol... era sólo un montón de ramitas y ramas de árbol que encontramos por ahí, y que unimos para formar una especie de estructura."
 
 # game/code/d09/d09s03.rpy:374
 translate spanish replay_d09s03_922484ca:
 
     # mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
-    mc "We knew more kids would want to check out our treasure of [d09s03_object!t] and didn't want everyone crowding into the treehouse, so we cleared off a nearby patch of ground."
+    mc "Sabíamos que más niños querrían ver nuestro tesoro de [d09s03_object!t] y no quería que todo el mundo se amontonara en la casa del árbol, así que despejamos un terreno cercano".
 
 # game/code/d09/d09s03.rpy:379
 translate spanish replay_d09s03_98daf7d3:
 
     # mc "And we build a foxhole with a little wall to prevent anyone seeing us from the road or their backyard."
-    mc "And we build a foxhole with a little wall to prevent anyone seeing us from the road or their backyard."
+    mc "Y construimos una trinchera con un pequeño muro para evitar que alguien nos vea desde la carretera o su patio trasero."
 
 # game/code/d09/d09s03.rpy:380
 translate spanish replay_d09s03_b02f9f89:
 
     # mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
-    mc "And of course, pretty soon word got around and there were always a few of us \"playing\" in the woods looking at [d09s03_object!t]..."
+    mc "Y por supuesto, muy pronto se corrió la voz y siempre éramos unos cuantos \"jugando\" en el bosque mirando [d09s03_object!t]..."
 
 # game/code/d09/d09s03.rpy:383
 translate spanish replay_d09s03_9da7b9fc:
 
     # mc "I mean, we were just kids. We didn't know how to masturbate or anything like that. We just liked looking at these things."
-    mc "I mean, we were just kids. We didn't know how to masturbate or anything like that. We just liked looking at these things."
+    mc "Quiero decir, sólo éramos niños. No sabíamos cómo masturbarnos ni nada por el estilo. Simplemente nos gustaba mirar estas cosas."
 
 # game/code/d09/d09s03.rpy:384
 translate spanish replay_d09s03_65729dd1:
 
     # lc "So, what happened?"
-    lc "So, what happened?"
+    lc "Entonces, ¿qué pasó?"
 
 # game/code/d09/d09s03.rpy:385
 translate spanish replay_d09s03_c45e770c:
 
     # mc "It made it through most of the summer, and survived some minor rain, but then one night there was a hell of a thunderstorm."
-    mc "It made it through most of the summer, and survived some minor rain, but then one night there was a hell of a thunderstorm."
+    mc "Pasó la mayor parte del verano y sobrevivió a algunas lluvias menores, pero una noche hubo una tormenta infernal."
 
 # game/code/d09/d09s03.rpy:386
 translate spanish replay_d09s03_3e2f7ebc:
 
     # mc "Like the kind where we all sat home playing board games by candlelight."
-    mc "Like the kind where we all sat home playing board games by candlelight."
+    mc "De esos en los que todos nos sentamos en casa a jugar a juegos de mesa a la luz de las velas."
 
 # game/code/d09/d09s03.rpy:387
 translate spanish replay_d09s03_3442f570:
 
     # lc "Huh. You know... I remember quite a few power outages like that when I was a kid, but nothing like that as a teenager or an adult."
-    lc "Huh. You know... I remember quite a few power outages like that when I was a kid, but nothing like that as a teenager or an adult."
+    lc "Huh. Sabes... Recuerdo bastantes apagones así cuando era niña, pero nada parecido cuando era adolescente o adulta."
 
 # game/code/d09/d09s03.rpy:390
 translate spanish replay_d09s03_4bf39568:
