@@ -178,325 +178,325 @@ translate spanish d09s03_c17ef8ec:
 translate spanish d09s03_369cfb49:
 
     # lc "I need to write my own music and sing my own songs."
-    lc "I need to write my own music and sing my own songs."
+    lc "Necesito escribir mi propia música y cantar mis propias canciones."
 
 # game/code/d09/d09s03.rpy:102
 translate spanish d09s03_85d475fe:
 
     # mc "Of course!"
-    mc "Of course!"
+    mc "Por supuesto."
 
 # game/code/d09/d09s03.rpy:104
 translate spanish d09s03_044e7292:
 
     # lc "Ha! Maybe I just needed you to point out the obvious."
-    lc "Ha! Maybe I just needed you to point out the obvious."
+    lc "¡Ja! Tal vez sólo necesitaba que señalaras lo obvio."
 
 # game/code/d09/d09s03.rpy:105
 translate spanish d09s03_a3ce470e:
 
     # mc "I'm happy to help."
-    mc "I'm happy to help."
+    mc "Estoy feliz de ayudar."
 
 # game/code/d09/d09s03.rpy:108
 translate spanish d09s03_607f7c5b:
 
     # lc "Excusez-moi, je dois poudrer mon nez."
-    lc "Excusez-moi, je dois poudrer mon nez."
+    lc "Disculpa, tengo que empolvarme la nariz."
 
 # game/code/d09/d09s03.rpy:109
 translate spanish d09s03_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "¿Eh?"
 
 # game/code/d09/d09s03.rpy:111
 translate spanish d09s03_3a0d12d2:
 
     # lc "The digestif is catching up to me. I must visit the refresher."
-    lc "The digestif is catching up to me. I must visit the refresher."
+    lc "El digestivo me está alcanzando. Tengo que visitar el repaso."
 
 # game/code/d09/d09s03.rpy:112
 translate spanish d09s03_22e6d123:
 
     # mc "Oh, the bathroom."
-    mc "Oh, the bathroom."
+    mc "Oh, el baño."
 
 # game/code/d09/d09s03.rpy:113
 translate spanish d09s03_dc175f2e:
 
     # lc "Exactly monsieur. I must make with the tinkle."
-    lc "Exactly monsieur. I must make with the tinkle."
+    lc "Exactamente señor. Debo hacerlo con el tintineo."
 
 # game/code/d09/d09s03.rpy:115
 translate spanish d09s03_fda4f6a7:
 
     # mc "*chuckle* Have fun."
-    mc "*chuckle* Have fun."
+    mc "*risas* Diviértete."
 
 # game/code/d09/d09s03.rpy:117
 translate spanish d09s03_bf0ad310:
 
     # lc "Thank you."
-    lc "Thank you."
+    lc "Gracias."
 
 # game/code/d09/d09s03.rpy:120
 translate spanish d09s03_0c9d7621:
 
     # mct "This is a really lovely restaurant. I'm glad she took me here..."
-    mct "This is a really lovely restaurant. I'm glad she took me here..."
+    mct "Este es un restaurante realmente encantador. Me alegro de que me haya traído aquí..."
 
 # game/code/d09/d09s03.rpy:122
 translate spanish d09s03_3a3b453f:
 
     # mct "... but I don't know that I could ever afford to take her out to a place like this."
-    mct "... but I don't know that I could ever afford to take her out to a place like this."
+    mct "... pero no sé si podría permitirme llevarla a un lugar como este."
 
 # game/code/d09/d09s03.rpy:123
 translate spanish d09s03_84799d9d:
 
     # mct "I'm definitely going to have to come up with something good for our next date."
-    mct "I'm definitely going to have to come up with something good for our next date."
+    mct "Definitivamente voy a tener que inventar algo bueno para nuestra próxima cita."
 
 # game/code/d09/d09s03.rpy:125
 translate spanish d09s03_a8eff729:
 
     # mct "What the...?"
-    mct "What the...?"
+    mct "¿Qué...?"
 
 # game/code/d09/d09s03.rpy:127
 translate spanish d09s03_e6fba0ba:
 
     # mct "Is that...?"
-    mct "Is that...?"
+    mct "¿Es...?"
 
 # game/code/d09/d09s03.rpy:131
 translate spanish d09s03_59f5b92b:
 
     # mc "AmRose?"
-    mc "AmRose?"
+    mc "¿AmRose?"
 
 # game/code/d09/d09s03.rpy:133
 translate spanish d09s03_d3dfc95c:
 
     # mct "What the hell is she doing here?"
-    mct "What the hell is she doing here?"
+    mct "¿Qué diablos hace ella aquí?"
 
 # game/code/d09/d09s03.rpy:140
 translate spanish d09s03_6a0b0629:
 
     # arj "Um... hi."
-    arj "Um... hi."
+    arj "Um... hola."
 
 # game/code/d09/d09s03.rpy:142
 translate spanish d09s03_5aaf5347:
 
     # mc "AmRose.{w}.. What are you doing here?"
-    mc "AmRose.{w}.. What are you doing here?"
+    mc "AmRose.{w}.. ¿Qué estás haciendo aquí?"
 
 # game/code/d09/d09s03.rpy:144
 translate spanish d09s03_81d0ece7:
 
     # arj "Well, that's hard to say..."
-    arj "Well, that's hard to say..."
+    arj "Bueno, eso es difícil de decir..."
 
 # game/code/d09/d09s03.rpy:145
 translate spanish d09s03_0e9013c7:
 
     # mc "Why is that?"
-    mc "Why is that?"
+    mc "¿Y eso por qué?"
 
 # game/code/d09/d09s03.rpy:147
 translate spanish d09s03_4fcf5f4f:
 
     # arj "Because it will sound like I'm insanely jealous and stalking you two on your date."
-    arj "Because it will sound like I'm insanely jealous and stalking you two on your date."
+    arj "Porque parecerá que estoy locamente celosa y que te acoso en vuestra cita."
 
 # game/code/d09/d09s03.rpy:148
 translate spanish d09s03_c42b05ac:
 
     # mc "And?"
-    mc "And?"
+    mc "¿Y?"
 
 # game/code/d09/d09s03.rpy:150
 translate spanish d09s03_042a5cd1:
 
     # arj "I don't want you to think that I'm jealous or stalking you two..."
-    arj "I don't want you to think that I'm jealous or stalking you two..."
+    arj "No quiero que pienses que estoy celosa o que te acoso..."
 
 # game/code/d09/d09s03.rpy:151
 translate spanish d09s03_c446cecb:
 
     # mc "I don't want to think that either. So..."
-    mc "I don't want to think that either. So..."
+    mc "Yo tampoco quiero pensar eso. Así que..."
 
 # game/code/d09/d09s03.rpy:153
 translate spanish d09s03_20f49147:
 
     # arj "...but I don't want to lie to you either."
-    arj "...but I don't want to lie to you either."
+    arj "...pero tampoco quiero mentirte."
 
 # game/code/d09/d09s03.rpy:154
 translate spanish d09s03_25f5fcf0:
 
     # mc "So, you actually are insanely jealous and stalking us on our date."
-    mc "So, you actually are insanely jealous and stalking us on our date."
+    mc "Así que, en realidad estás locamente celoso y nos acechas en nuestra cita."
 
 # game/code/d09/d09s03.rpy:155
 translate spanish d09s03_47fc2d1f:
 
     # arj "...{w} yes."
-    arj "...{w} yes."
+    arj "...{w} sí."
 
 # game/code/d09/d09s03.rpy:157
 translate spanish d09s03_e24f98aa:
 
     # arj "I'm sorry. I'm sorry. I don't mean to be crazy. It's just..."
-    arj "I'm sorry. I'm sorry. I don't mean to be crazy. It's just..."
+    arj "Lo siento. Lo siento. No quiero ser una loca. Es sólo que..."
 
 # game/code/d09/d09s03.rpy:158
 translate spanish d09s03_66b8bdb1:
 
     # mc "It is just what?"
-    mc "It is just what?"
+    mc "¿Es sólo qué?"
 
 # game/code/d09/d09s03.rpy:159
 translate spanish d09s03_76924a7f:
 
     # arj "The rational part of me says to leave it alone and let you two do your thing..."
-    arj "The rational part of me says to leave it alone and let you two do your thing..."
+    arj "La parte racional dice que lo deje en paz y que los deje hacer lo suyo..."
 
 # game/code/d09/d09s03.rpy:160
 translate spanish d09s03_c2101aa4:
 
     # arj "... that your thing doesn't have anything to do with our thing..."
-    arj "... that your thing doesn't have anything to do with our thing..."
+    arj "... que lo suyo no tiene nada que ver con lo nuestro..."
 
 # game/code/d09/d09s03.rpy:162
 translate spanish d09s03_432c03c4:
 
     # arj "... but..."
-    arj "... but..."
+    arj "... pero..."
 
 # game/code/d09/d09s03.rpy:163
 translate spanish d09s03_6df11091:
 
     # arj "... the rational part of me isn't running the shop right now."
-    arj "... the rational part of me isn't running the shop right now."
+    arj "... mí parte racional no está funcionando ahora mismo."
 
 # game/code/d09/d09s03.rpy:169
 translate spanish d09s03_f1ca834c:
 
     # mc "Um, AmRose?"
-    mc "Um, AmRose?"
+    mc "Um, ¿AmRose?"
 
 # game/code/d09/d09s03.rpy:171
 translate spanish d09s03_827ca850:
 
     # arj "I want to be rational, but..."
-    arj "I want to be rational, but..."
+    arj "Quiero ser racional, pero..."
 
 # game/code/d09/d09s03.rpy:174
 translate spanish replay_d09s03_6f6aecba:
 
     # mc "AmRose!"
-    mc "AmRose!"
+    mc "¡AmRose!"
 
 # game/code/d09/d09s03.rpy:175
 translate spanish replay_d09s03_ba2263c4:
 
     # arj "Yes, [mcname]?"
-    arj "Yes, [mcname]?"
+    arj "¿Sí, [mcname]?"
 
 # game/code/d09/d09s03.rpy:177
 translate spanish replay_d09s03_4c900d01:
 
     # mc "Lydia is coming back."
-    mc "Lydia is coming back."
+    mc "Lydia está regresando."
 
 # game/code/d09/d09s03.rpy:178
 translate spanish replay_d09s03_bfb293c3:
 
     # arj "What???{w} Oh shit oh shit oh shit."
-    arj "What???{w} Oh shit oh shit oh shit."
+    arj "¿Qué???{w} Oh mierda oh mierda oh mierda."
 
 # game/code/d09/d09s03.rpy:180
 translate spanish replay_d09s03_fe98d218:
 
     # mc "It's okay, just..."
-    mc "It's okay, just..."
+    mc "Está bien, sólo..."
 
 # game/code/d09/d09s03.rpy:181
 translate spanish replay_d09s03_a591804a:
 
     # arj "Hide! I must hide!"
-    arj "Hide! I must hide!"
+    arj "¡Escóndete! ¡Debo esconderme!"
 
 # game/code/d09/d09s03.rpy:183
 translate spanish replay_d09s03_322265cb:
 
     # mc "What are you...?"
-    mc "What are you...?"
+    mc "¿Qué estás...?"
 
 # game/code/d09/d09s03.rpy:184
 translate spanish replay_d09s03_919f7e4b:
 
     # arj "Ack! Panic!"
-    arj "Ack! Panic!"
+    arj "¡Ak! ¡Pánico!"
 
 # game/code/d09/d09s03.rpy:186
 translate spanish replay_d09s03_8098284d:
 
     # arj "Shhh... I'm hidden.{w} She can't see me."
-    arj "Shhh... I'm hidden.{w} She can't see me."
+    arj "Shhh... estoy escondida.{w} Ella no puede verme."
 
 # game/code/d09/d09s03.rpy:187
 translate spanish replay_d09s03_5ca3596d:
 
     # mc "She will when she sits down."
-    mc "She will when she sits down."
+    mc "Lo hará cuando se siente."
 
 # game/code/d09/d09s03.rpy:190
 translate spanish replay_d09s03_ebae5473:
 
     # mc "*whisper* Slave! Listen to me!"
-    mc "*whisper* Slave! Listen to me!"
+    mc "*susurro* ¡Esclava! ¡Escúchame!"
 
 # game/code/d09/d09s03.rpy:192
 translate spanish replay_d09s03_c50a4aed:
 
     # mc "*whisper* Get under the table right now!"
-    mc "*whisper* Get under the table right now!"
+    mc "*susurro* ¡Métete debajo de la mesa ahora mismo!"
 
 # game/code/d09/d09s03.rpy:196
 translate spanish replay_d09s03_5fe52325:
 
     # mc "*whisper* You can kneel at my feet like a proper slut!"
-    mc "*whisper* You can kneel at my feet like a proper slut!"
+    mc "*susurro* ¡Puedes arrodillarte a mis pies como una auténtica zorra!"
 
 # game/code/d09/d09s03.rpy:200
 translate spanish replay_d09s03_13fb859e:
 
     # arj "Panicpanicpanic"
-    arj "Panicpanicpanic"
+    arj "PanicoPanico"
 
 # game/code/d09/d09s03.rpy:201
 translate spanish replay_d09s03_c7bd9eb1:
 
     # mc "Stop saying panic."
-    mc "Stop saying panic."
+    mc "Deja de decir pánico."
 
 # game/code/d09/d09s03.rpy:203
 translate spanish replay_d09s03_8bb7829e:
 
     # arj "Ah ha!"
-    arj "Ah ha!"
+    arj "¡Ah, ja!"
 
 # game/code/d09/d09s03.rpy:205
 translate spanish replay_d09s03_05d91e2c:
 
     # mc "No no no... what the hell are you...?"
-    mc "No no no... what the hell are you...?"
+    mc "No, no, no... ¿qué demonios estás...?"
 
 # game/code/d09/d09s03.rpy:207
 translate spanish replay_d09s03_eeadb8f7:
@@ -508,139 +508,139 @@ translate spanish replay_d09s03_eeadb8f7:
 translate spanish replay_d09s03_48b2468f:
 
     # mc "*whisper* Stop rubbing against my leg!"
-    mc "*whisper* Stop rubbing against my leg!"
+    mc "*susurro* ¡Deja de frotarte contra mi pierna!"
 
 # game/code/d09/d09s03.rpy:213
 translate spanish replay_d09s03_f10d5bcb:
 
     # lc "And I'm back!"
-    lc "And I'm back!"
+    lc "¡Y ya estoy de vuelta!"
 
 # game/code/d09/d09s03.rpy:215
 translate spanish replay_d09s03_41794eca:
 
     # mc "I couldn't bear another minute without you."
-    mc "I couldn't bear another minute without you."
+    mc "No podría soportar ni un minuto más sin ti."
 
 # game/code/d09/d09s03.rpy:217
 translate spanish replay_d09s03_7d25a7b3:
 
     # lc "Awww...{w} oh look, wine..."
-    lc "Awww...{w} oh look, wine..."
+    lc "Awww...{w} oh, mira, el vino..."
 
 # game/code/d09/d09s03.rpy:219
 translate spanish replay_d09s03_88bc3ed6:
 
     # mc "Digestif."
-    mc "Digestif."
+    mc "Digestivo."
 
 # game/code/d09/d09s03.rpy:220
 translate spanish replay_d09s03_0c089754:
 
     # lc "Exaaactly."
-    lc "Exaaactly."
+    lc "Exaaactamente."
 
 # game/code/d09/d09s03.rpy:222
 translate spanish replay_d09s03_5dd9e348:
 
     # mc "Maybe it's time to switch to water?"
-    mc "Maybe it's time to switch to water?"
+    mc "¿Quizás sea el momento de cambiar al agua?"
 
 # game/code/d09/d09s03.rpy:223
 translate spanish replay_d09s03_d7fc0734:
 
     # lc "I'm totally fine! What were we talking about?"
-    lc "I'm totally fine! What were we talking about?"
+    lc "¡Estoy totalmente bien! ¿De qué estábamos hablando?"
 
 # game/code/d09/d09s03.rpy:245
 translate spanish replay_d09s03_1b4faa7d:
 
     # mct "Fuck... It is a blitz challenge and I even missed what the task is!"
-    mct "Fuck... It is a blitz challenge and I even missed what the task is!"
+    mct "Joder... ¡Es un reto relámpago y hasta me perdí cuál es la tarea!"
 
 # game/code/d09/d09s03.rpy:248
 translate spanish replay_d09s03_84204b43:
 
     # lc "Oh, yesss! That fetish app!"
-    lc "Oh, yesss! That fetish app!"
+    lc "¡Oh, sí! ¡Esa aplicación fetiche!"
 
 # game/code/d09/d09s03.rpy:249
 translate spanish replay_d09s03_8cd6acc1:
 
     # mct "Oh my dear and fluffy lord... not now."
-    mct "Oh my dear and fluffy lord... not now."
+    mct "Oh mi querido y esponjoso señor... ahora no."
 
 # game/code/d09/d09s03.rpy:251
 translate spanish replay_d09s03_8b806f98:
 
     # lc "Tell me another one of your stories, Mister Sex Machine."
-    lc "Tell me another one of your stories, Mister Sex Machine."
+    lc "Cuéntame otra de tus historias, Señor Máquina Sexual."
 
 # game/code/d09/d09s03.rpy:252
 translate spanish replay_d09s03_27047aaa:
 
     # mc "I don't know if this is..."
-    mc "I don't know if this is..."
+    mc "No sé si este es..."
 
 # game/code/d09/d09s03.rpy:254
 translate spanish replay_d09s03_94e52d59:
 
     # lc "It's either that or paint me like one of your French girls."
-    lc "It's either that or paint me like one of your French girls."
+    lc "Es eso o pintarme como una de tus chicas francesas."
 
 # game/code/d09/d09s03.rpy:255
 translate spanish replay_d09s03_a5efac77:
 
     # mc "What? Here? In public?"
-    mc "What? Here? In public?"
+    mc "¿Qué? ¿Aquí? ¿En público?"
 
 # game/code/d09/d09s03.rpy:256
 translate spanish replay_d09s03_c8529399:
 
     # lc "Loosen up... nobody can hear us..."
-    lc "Loosen up... nobody can hear us..."
+    lc "Relájate ... nadie puede oírnos..."
 
 # game/code/d09/d09s03.rpy:265
 translate spanish replay_d09s03_e6799d34:
 
     # mct "What the hell is AmRose doing?"
-    mct "What the hell is AmRose doing?"
+    mct "¿Qué demonios está haciendo AmRose?"
 
 # game/code/d09/d09s03.rpy:266
 translate spanish replay_d09s03_be1598cf:
 
     # mct "Oh shit... she wants to get points for the blitz challenge??"
-    mct "Oh shit... she wants to get points for the blitz challenge??"
+    mct "Oh, mierda... ¿quiere conseguir puntos para el desafío relámpago?"
 
 # game/code/d09/d09s03.rpy:268
 translate spanish replay_d09s03_bd7716bb:
 
     # lc "I'm waiting..."
-    lc "I'm waiting..."
+    lc "Estoy esperando..."
 
 # game/code/d09/d09s03.rpy:270
 translate spanish replay_d09s03_0fc5bc9d:
 
     # mc "Okay, a story it is. Let me think for just a second..."
-    mc "Okay, a story it is. Let me think for just a second..."
+    mc "Bien, es una historia. Déjame pensar por un segundo..."
 
 # game/code/d09/d09s03.rpy:319
 translate spanish replay_d09s03_1fbf5754:
 
     # mc "Alright... I just remembered something."
-    mc "Alright... I just remembered something."
+    mc "Muy bien... Acabo de recordar algo."
 
 # game/code/d09/d09s03.rpy:320
 translate spanish replay_d09s03_6b88cf19:
 
     # mc "Not really a sex story. But this the only thing I can remember now."
-    mc "Not really a sex story. But this the only thing I can remember now."
+    mc "No es realmente una historia de sexo. Pero esto es lo único que puedo recordar ahora."
 
 # game/code/d09/d09s03.rpy:322
 translate spanish replay_d09s03_70d0901c:
 
     # mc "This happened when I was a kid... and it's a little weird... but. {w}.. it a story..."
-    mc "This happened when I was a kid... and it's a little weird... but. {w}.. it a story..."
+    mc "Esto sucedió cuando era un niño... y es un poco raro... pero. {w}.. es una historia..."
 
 # game/code/d09/d09s03.rpy:323
 translate spanish replay_d09s03_5ea45204:
