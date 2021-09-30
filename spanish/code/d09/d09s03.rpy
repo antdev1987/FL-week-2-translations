@@ -862,67 +862,67 @@ translate spanish replay_d09s03_3442f570:
 translate spanish replay_d09s03_4bf39568:
 
     # mc "Yeah. You're right. I wonder why that is."
-    mc "Yeah. You're right. I wonder why that is."
+    mc "Sí. Tienes razón. Me pregunto por qué."
 
 # game/code/d09/d09s03.rpy:391
 translate spanish replay_d09s03_6bf6bb9f:
 
     # lc "Maybe improvements to the electricity infrastructure?"
-    lc "Maybe improvements to the electricity infrastructure?"
+    lc "¿Quizás mejoras en la infraestructura eléctrica?"
 
 # game/code/d09/d09s03.rpy:394
 translate spanish replay_d09s03_4483d594:
 
     # mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
-    mc "Maybe. The treehouse survived it, but the box of [d09s03_object!t] didn't. It somehow got knocked over in the wind and the contents were scattered all over the forest."
+    mc "Tal vez. La casa del árbol sobrevivió, pero la caja de [d09s03_object!t] no lo hizo. De alguna manera se volcó con el viento y el contenido se esparció por todo el bosque."
 
 # game/code/d09/d09s03.rpy:395
 translate spanish replay_d09s03_a805dba6:
 
     # mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
-    mc "And I do mean all over. Like the distance of a football field at least... [d09s03_object!t], all wet and soggy, covered in dirt and torn to shreds... they covered the forest floor like pornographic leaves."
+    mc "Y me refiero a todo. Como la distancia de un campo de fútbol por lo menos... [d09s03_object!t], todas mojadas y empapadas, cubiertas de suciedad y hechas trizas... cubrían el suelo del bosque como hojas pornográficas."
 
 # game/code/d09/d09s03.rpy:396
 translate spanish replay_d09s03_36058333:
 
     # mct "Oh god... {w}I'm about to cum..."
-    mct "Oh god... {w}I'm about to cum..."
+    mct "Oh, Dios.... {w}Estoy a punto de acabar..."
 
 # game/code/d09/d09s03.rpy:397
 translate spanish replay_d09s03_9b96df8a:
 
     # mc "Just everywhere. All over the place."
-    mc "Just everywhere. All over the place."
+    mc "En todas partes. Por todo el lugar."
 
 # game/code/d09/d09s03.rpy:400
 translate spanish replay_d09s03_ffa0953a:
 
     # mct "Keep looking Lydia in the eyes.{w}.. Keep making conversation..."
-    mct "Keep looking Lydia in the eyes.{w}.. Keep making conversation..."
+    mct "Sigue mirando a Lydia a los ojos.{w}.. Sigue conversando..."
 
 # game/code/d09/d09s03.rpy:401
 translate spanish replay_d09s03_f656a38d:
 
     # mc "After that there wasn't much point..."
-    mc "After that there wasn't much point..."
+    mc "Después de eso no tenía mucho sentido..."
 
 # game/code/d09/d09s03.rpy:402
 translate spanish replay_d09s03_53dcfb9d:
 
     # mct "Damn! AmRose is sucking the life out of me!"
-    mct "Damn! AmRose is sucking the life out of me!"
+    mct "¡Maldita sea! ¡AmRose me está chupando la vida!"
 
 # game/code/d09/d09s03.rpy:403
 translate spanish replay_d09s03_e33e2195:
 
     # mc "We all stopped using the treehouse, and eventually it fell down..."
-    mc "We all stopped using the treehouse, and eventually it fell down..."
+    mc "Todos dejamos de usar la casa del árbol, y finalmente se cayó..."
 
 # game/code/d09/d09s03.rpy:404
 translate spanish replay_d09s03_8503cd6e:
 
     # mct "Hell yeah! Suck every drop you redheaded vixen!"
-    mct "Hell yeah! Suck every drop you redheaded vixen!"
+    mct "¡Claro que sí! ¡Chupa cada gota, zorra pelirroja!"
 
 # game/code/d09/d09s03.rpy:413
 translate spanish replay_d09s03_3a4b6978:
@@ -940,225 +940,225 @@ translate spanish replay_d09s03_1de91ad6:
 translate spanish replay_d09s03_45526ba1:
 
     # lc "Are you okay?"
-    lc "Are you okay?"
+    lc "¿Estás bien?"
 
 # game/code/d09/d09s03.rpy:423
 translate spanish replay_d09s03_218077f6:
 
     # lc " You look..."
-    lc " You look..."
+    lc " tu miras..."
 
 # game/code/d09/d09s03.rpy:424
 translate spanish replay_d09s03_e7c7315b:
 
     # lc "... strange."
-    lc "... strange."
+    lc "... extraño."
 
 # game/code/d09/d09s03.rpy:426
 translate spanish replay_d09s03_7a6d41cc:
 
     # mc "Well, yeah."
-    mc "Well, yeah."
+    mc "Bueno, sí."
 
 # game/code/d09/d09s03.rpy:427
 translate spanish replay_d09s03_67f7cad6:
 
     # mct "I'm still looking Lydia in the eyes. Must make more conversation. Distract her."
-    mct "I'm still looking Lydia in the eyes. Must make more conversation. Distract her."
+    mct "Todavía estoy mirando a Lydia a los ojos. Debo dar más conversación. Distraerla."
 
 # game/code/d09/d09s03.rpy:429
 translate spanish replay_d09s03_6c12bac9:
 
     # mc "I guess I'm not used to drinking.{w}.. vine."
-    mc "I guess I'm not used to drinking.{w}.. vine."
+    mc "Supongo que no estoy acostumbrado a beber.{w}.. vino."
 
 # game/code/d09/d09s03.rpy:431
 translate spanish replay_d09s03_cf01fdc7:
 
     # lc "Are you trying for a cheesy Transylvanian accent?"
-    lc "Are you trying for a cheesy Transylvanian accent?"
+    lc "¿Intentas poner un acento transilvano cursi?"
 
 # game/code/d09/d09s03.rpy:433
 translate spanish replay_d09s03_7eb713e6:
 
     # mc "Yeah, sorry. I guess I'm just not used to drinking wine during the day."
-    mc "Yeah, sorry. I guess I'm just not used to drinking wine during the day."
+    mc "Sí, lo siento. Supongo que no estoy acostumbrado a beber vino durante el día."
 
 # game/code/d09/d09s03.rpy:435
 translate spanish replay_d09s03_8c7c3e51:
 
     # lc "Yeah, it's easy to misjudge and get a bit tipsy."
-    lc "Yeah, it's easy to misjudge and get a bit tipsy."
+    lc "Sí, es fácil equivocarse y estar un poco achispado."
 
 # game/code/d09/d09s03.rpy:449
 translate spanish replay_d09s03_7573b941:
 
     # fl "You got [d09s03_points] points!"
-    fl "You got [d09s03_points] points!"
+    fl "¡Tienes [d09s03_points] puntos!"
 
 # game/code/d09/d09s03.rpy:452
 translate spanish replay_d09s03_8a529267:
 
     # mc "Anyway, yeah, so that was what I was remembering."
-    mc "Anyway, yeah, so that was what I was remembering."
+    mc "De todos modos, sí, eso era lo que estaba recordando."
 
 # game/code/d09/d09s03.rpy:453
 translate spanish replay_d09s03_e1b2241e:
 
     # lc "Was that some dream or.{w}.. what was that?"
-    lc "Was that some dream or.{w}.. what was that?"
+    lc "¿Fue eso un sueño o.{w}.. qué fue eso?"
 
 # game/code/d09/d09s03.rpy:454
 translate spanish replay_d09s03_0db5cf2d:
 
     # mc "I don't know. It's like a half forgotten memory from when I was a little kid."
-    mc "I don't know. It's like a half forgotten memory from when I was a little kid."
+    mc "No lo sé. Es como un recuerdo medio olvidado de cuando era pequeño."
 
 # game/code/d09/d09s03.rpy:456
 translate spanish replay_d09s03_66734d9d:
 
     # mc "Maybe 90%% real memory mixed with 10%% nostalgic fantasy?"
-    mc "Maybe 90%% real memory mixed with 10%% nostalgic fantasy?"
+    mc "Quizás 90%% memoria real mezclada con 10%% de fantasía nostálgica?"
 
 # game/code/d09/d09s03.rpy:458
 translate spanish replay_d09s03_99a47f7a:
 
     # mc "Maybe 80%% real memory mixed with 20%% nostalgic fantasy?"
-    mc "Maybe 80%% real memory mixed with 20%% nostalgic fantasy?"
+    mc "Quizás 80%% memoria real mezclada con 20%% de fantasía nostálgica?"
 
 # game/code/d09/d09s03.rpy:460
 translate spanish replay_d09s03_d73c2203:
 
     # mc "Maybe 70%% real memory mixed with 30%% inebriated fantasy?"
-    mc "Maybe 70%% real memory mixed with 30%% inebriated fantasy?"
+    mc "Quizás 70%% memoria real mezclada con 30%% fantasía ebria?"
 
 # game/code/d09/d09s03.rpy:462
 translate spanish replay_d09s03_332841e7:
 
     # mc "Maybe 60%% real memory mixed with 40%% inebriated fantasy?"
-    mc "Maybe 60%% real memory mixed with 40%% inebriated fantasy?"
+    mc "Quizás 60%% memoria real mezclada con 40%% fantasía ebria?"
 
 # game/code/d09/d09s03.rpy:464
 translate spanish replay_d09s03_1505a571:
 
     # lc "That sounds about right.{w}.. are you okay to take a little walk?"
-    lc "That sounds about right.{w}.. are you okay to take a little walk?"
+    lc "Eso suena bien.{w}.. ¿estás bien para dar un pequeño paseo?"
 
 # game/code/d09/d09s03.rpy:465
 translate spanish replay_d09s03_2a1acefb:
 
     # mc "Better than ever. {w}You did say that you wanted a story."
-    mc "Better than ever. {w}You did say that you wanted a story."
+    mc "Mejor que nunca. {w}Dijiste que querías una historia."
 
 # game/code/d09/d09s03.rpy:467
 translate spanish replay_d09s03_2d541934:
 
     # lc "Well, I was counting on something else. But might got much more!"
-    lc "Well, I was counting on something else. But might got much more!"
+    lc "Bueno, Contaba con algo más. ¡Pero podría tener mucho más!"
 
 # game/code/d09/d09s03.rpy:468
 translate spanish replay_d09s03_13977be6:
 
     # mc "Perfect. Shall we go?"
-    mc "Perfect. Shall we go?"
+    mc "Perfecto. ¿Nos vamos?"
 
 # game/code/d09/d09s03.rpy:469
 translate spanish replay_d09s03_18ce0546:
 
     # lc "Sounds good."
-    lc "Sounds good."
+    lc "Suena bien."
 
 # game/code/d09/d09s03.rpy:472
 translate spanish replay_d09s03_41739002:
 
     # lc "Have you ever had professional counseling or therapy?"
-    lc "Have you ever had professional counseling or therapy?"
+    lc "¿Ha recibido alguna vez asesoramiento o terapia profesional?"
 
 # game/code/d09/d09s03.rpy:474
 translate spanish replay_d09s03_4fc30be0:
 
     # lc "Have you ever tried spoken word poetry or gone to a storytelling contest?"
-    lc "Have you ever tried spoken word poetry or gone to a storytelling contest?"
+    lc "¿Has probado alguna vez la poesía hablada o has ido a un concurso de relatos?"
 
 # game/code/d09/d09s03.rpy:476
 translate spanish replay_d09s03_dd9fdea2:
 
     # lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
-    lc "Have you ever considered painting abstract art or avant-garde poetry contests?"
+    lc "¿Ha pensado alguna vez en pintar arte abstracto o en participar en concursos de poesía de vanguardia?"
 
 # game/code/d09/d09s03.rpy:477
 translate spanish replay_d09s03_84928f52:
 
     # mc "No, why?"
-    mc "No, why?"
+    mc "No, ¿por qué?"
 
 # game/code/d09/d09s03.rpy:478
 translate spanish replay_d09s03_48e333d9:
 
     # lc "No reason."
-    lc "No reason."
+    lc "No por nada."
 
 # game/code/d09/d09s03.rpy:480
 translate spanish replay_d09s03_cf53bf7d:
 
     # lc "That was such a nice time! Thank you so much!"
-    lc "That was such a nice time! Thank you so much!"
+    lc "¡Fue un momento tan agradable! ¡Muchas gracias!"
 
 # game/code/d09/d09s03.rpy:481
 translate spanish replay_d09s03_a2a07f79:
 
     # mc "I loved it as well! Can I call you tonight!"
-    mc "I loved it as well! Can I call you tonight!"
+    mc "¡A mí también me encantó! ¿Puedo llamarte esta noche?"
 
 # game/code/d09/d09s03.rpy:482
 translate spanish replay_d09s03_97f95a57:
 
     # lc "I will be waiting for that!"
-    lc "I will be waiting for that!"
+    lc "¡Estaré esperando eso!"
 
 # game/code/d09/d09s03.rpy:486
 translate spanish replay_d09s03_97a53fd1:
 
     # mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad. At least I can be there to save Vanessa if something happens."
-    mct "Now I have to run to meet Samiya. I hope she isn't planning anything bad. At least I can be there to save Vanessa if something happens."
+    mct "Ahora tengo que correr para encontrarme con Samiya. Espero que no esté planeando nada malo. Al menos puedo estar allí para salvar a Vanessa si algo sucede."
 
 # game/code/d09/d09s03.rpy:488
 translate spanish replay_d09s03_d5ff7835:
 
     # mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
-    mct "Now I have to run back to Samiya's place. I hope this show of hers isn't anything special..."
+    mct "Ahora tengo que volver corriendo a casa de Samiya. Espero que este espectáculo suyo no sea nada especial..."
 
 # game/code/d09/d09s03.rpy:490
 translate spanish replay_d09s03_f3383e9d:
 
     # mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
-    mct "Now I have to run for this strange task... {w}Call boy... {w}I guess there is no turning back."
+    mct "Ahora tengo que correr para esta extraña tarea... {w}Prostituto... {w}Supongo que no hay vuelta atrás."
 
 translate spanish strings:
 
     # game/code/d09/d09s03.rpy:273
     old "Pick a Pet"
-    new "Pick a Pet"
+    new "Elige una mascota"
 
     # game/code/d09/d09s03.rpy:273
     old "Dog"
-    new "Dog"
+    new "Perro"
 
     # game/code/d09/d09s03.rpy:273
     old "Horse"
-    new "Horse"
+    new "Caballo"
 
     # game/code/d09/d09s03.rpy:273
     old "Dragon"
-    new "Dragon"
+    new "Dragón"
 
     # game/code/d09/d09s03.rpy:276
     old "dog"
-    new "dog"
+    new "perro"
 
     # game/code/d09/d09s03.rpy:280
     old "horse"
-    new "horse"
+    new "caballo"
 
     # game/code/d09/d09s03.rpy:284
     old "dragon"
@@ -1166,57 +1166,57 @@ translate spanish strings:
 
     # game/code/d09/d09s03.rpy:288
     old "Select a Verb"
-    new "Select a Verb"
+    new "Seleccione un verbo"
 
     # game/code/d09/d09s03.rpy:288
     old "Cuddle"
-    new "Cuddle"
+    new "Abrazar"
 
     # game/code/d09/d09s03.rpy:288
     old "Dance"
-    new "Dance"
+    new "Bailar"
 
     # game/code/d09/d09s03.rpy:288
     old "Fuck"
-    new "Fuck"
+    new "Joder"
 
     # game/code/d09/d09s03.rpy:291
     old "cuddle"
-    new "cuddle"
+    new "abrazar"
 
     # game/code/d09/d09s03.rpy:295
     old "dance"
-    new "dance"
+    new "bailar"
 
     # game/code/d09/d09s03.rpy:299
     old "fuck"
-    new "fuck"
+    new "joder"
 
     # game/code/d09/d09s03.rpy:303
     old "Choose a Box"
-    new "Choose a Box"
+    new "Elija una caja"
 
     # game/code/d09/d09s03.rpy:303
     old "Box of Adult Magazines"
-    new "Box of Adult Magazines"
+    new "Caja de revistas para adultos"
 
     # game/code/d09/d09s03.rpy:303
     old "Box of Used Panties"
-    new "Box of Used Panties"
+    new "Caja de bragas usadas"
 
     # game/code/d09/d09s03.rpy:303
     old "Box of Soiled Condoms"
-    new "Box of Soiled Condoms"
+    new "Caja de condones sucios"
 
     # game/code/d09/d09s03.rpy:306
     old "adult magazines"
-    new "adult magazines"
+    new "revistas para adultos"
 
     # game/code/d09/d09s03.rpy:310
     old "used panties"
-    new "used panties"
+    new "bragas usadas"
 
     # game/code/d09/d09s03.rpy:314
     old "soiled condoms"
-    new "soiled condoms"
+    new "condones sucios"
 
